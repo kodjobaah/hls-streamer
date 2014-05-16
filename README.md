@@ -1,4 +1,6 @@
 hls-streamer
-============
+=======================
 
-Used to stream hls video
+Application used to stream hls 
+
+Technologies Used: Spray+Akka+Xuggle
